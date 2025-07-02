@@ -305,6 +305,50 @@ img {
 .skills__img {
   border-radius: 0.5rem;
 }
+/* ===== TRIAL SECTION ===== */
+.trial__container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.trial__card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f7f7f7;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: 600;
+  color: #333;
+  border: 1px solid #ccc;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.trial__card:hover {
+  background-color: #f7f7f7;
+  transform: translateY(-3px);
+  border-color: #f7f7f7;
+}
+.trial__intro {
+  background-color: #f7f7f7;
+  padding: 1rem 1.5rem;
+  border: 1px solid #f7f7f7;
+  border-radius: 8px;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.trial__intro p {
+  margin: 0;
+  font-weight: 500;
+  color: #333;
+}
+
 
 /* ===== WORK =====*/
 .work__container {
@@ -320,6 +364,12 @@ img {
 }
 .work__img img:hover {
   transform: scale(1.1);
+}
+
+.student-work__button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
 }
 
 /* ===== CONTACT =====*/
