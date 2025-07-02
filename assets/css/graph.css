@@ -12,24 +12,81 @@ header {
     text-align: center;
 }
 
-.container {
+.container-button {
+    display: inline;
+    flex-wrap: wrap;
+    gap: 2em;
     padding: 1em;
+    margin-bottom: 1em;
+
+}
+
+
+.button-bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 10px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 40px;
+    font-weight: bold;
+}
+
+.button-bar span {
+    margin-right: 8px;
+    white-space: nowrap;
+}
+
+.switch-button {
+    padding: 6px 14px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: #333;
+    font-size: 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.2s ease;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.switch-button:hover {
+    background-color: #f0f0f0;
+}
+
+.container-graph {
+    display: flex;
+    padding: 1em;
+    gap: 1em;
+    height: 85vh;
+    position: relative;
+}
+
+.graph-panel {
+    flex: 3;
+    position: relative;
 }
 
 #network {
     width: 100%;
-    height: 80vh;
+    height: 100%;
     border: 1px solid #ccc;
     background: white;
 }
 
 .info {
-    margin-top: 1em;
-    padding: 1em;
-    background: #fff8dc;
+    flex: 1;
+    min-width: 200px;
+    background: lightgray;
     border: 1px solid #ccc;
+    padding: 1em;
+    overflow-y: auto;
+    font-size: 14px;
+    line-height: 1.6;
 }
-
 
 .zoom-controls {
     position: absolute;
@@ -37,6 +94,7 @@ header {
     right: 20px;
     z-index: 10;
 }
+
 
 .zoom-controls button {
     font-size: 20px;

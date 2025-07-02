@@ -16,14 +16,32 @@
     <h1>關係圖 Demo</h1>
 </header>
 
-<div class="container">
-    <div id="network"></div>
-    <div class="zoom-controls">
-        <button id="zoomIn">+</button>
-        <button id="zoomOut">−</button>
+<div class="container-button">
+    <div class="button-bar">
+        <button class="switch-button" data-type="set1">人物關係</button>
+        <button class="switch-button" data-type="set2">指控關係</button>
+        <button class="switch-button" data-type="set3">家族圖</button>
+        <button class="switch-button" data-type="set4">密謀網絡</button>
+        <button class="switch-button" data-type="set5">政治系譜</button>
+        <button class="switch-button" data-type="set6">官員關係</button>
     </div>
+
+</div>
+
+<div class="container-graph">
+
+    <div class="graph-panel">
+        <div id="network"></div>
+        <div class="zoom-controls">
+            <button id="zoomIn">+</button>
+            <button id="zoomOut">−</button>
+        </div>
+    </div>
+
     <div class="info" id="infoPanel">點選節點以顯示資訊</div>
 </div>
+
+
 
 <!-- External JavaScript -->
 <script src="assets/js/graph.js"></script>
