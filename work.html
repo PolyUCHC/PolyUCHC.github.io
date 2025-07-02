@@ -5,45 +5,70 @@
     <title>關係圖 - Demo</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Vis.js CDN -->
+    <!-- Vis.js -->
     <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
 
-    <!-- External CSS -->
+    <!-- Styles -->
+    <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="assets/css/graph.css">
+    <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
 </head>
+
+
 <body>
-<header>
-    <h1>關係圖 Demo</h1>
+<header class="l-header">
+    <nav class="nav bd-grid">
+        <div>
+            <a href="index.html#home" class="nav__logo">PolyU CHC AI Learning Hub Chinese History Culture</a>
+        </div>
+
+        <div class="nav__menu" id="nav-menu">
+            <ul class="nav__list">
+                <li class="nav__item"><a href="index.html#home" class="nav__link">Home</a></li>
+                <li class="nav__item"><a href="index.html#about" class="nav__link">About</a></li>
+                <li class="nav__item"><a href="index.html#resource" class="nav__link">Resource</a></li>
+                <li class="nav__item"><a href="index.html#contact" class="nav__link">Trial</a></li>
+                <li class="nav__item"><a href="work.html" class="nav__link active-link">Student Work</a></li>
+            </ul>
+        </div>
+
+        <div class="nav__toggle" id="nav-toggle">
+            <i class='bx bx-menu'></i>
+        </div>
+    </nav>
 </header>
 
-<div class="container-button">
-    <div class="button-bar">
-        <button class="switch-button" data-type="set1">人物關係</button>
-        <button class="switch-button" data-type="set2">指控關係</button>
-        <button class="switch-button" data-type="set3">家族圖</button>
-        <button class="switch-button" data-type="set4">密謀網絡</button>
-        <button class="switch-button" data-type="set5">政治系譜</button>
-        <button class="switch-button" data-type="set6">官員關係</button>
-    </div>
 
-</div>
-
-<div class="container-graph">
-
-    <div class="graph-panel">
-        <div id="network"></div>
-        <div class="zoom-controls">
-            <button id="zoomIn">+</button>
-            <button id="zoomOut">−</button>
+    <div class="container-button">
+        <div class="button-bar">
+            <button class="switch-button" data-type="set1">人物關係</button>
+            <button class="switch-button" data-type="set2">指控關係</button>
+            <button class="switch-button" data-type="set3">家族圖</button>
+            <button class="switch-button" data-type="set4">密謀網絡</button>
+            <button class="switch-button" data-type="set5">政治系譜</button>
+            <button class="switch-button" data-type="set6">官員關係</button>
         </div>
     </div>
+    <div class="container-graph">
+
+        <div class="graph-panel">
+            <div id="network"></div>
+            <div class="zoom-controls">
+                <button id="zoomIn">+</button>
+                <button id="zoomOut">−</button>
+            </div>
+        </div>
 
     <div class="info" id="infoPanel">點選節點以顯示資訊</div>
 </div>
 
 
 
+
 <!-- External JavaScript -->
+
+<script src="assets/js/main.js"></script>
 <script src="assets/js/graph.js"></script>
+
 </body>
 </html>

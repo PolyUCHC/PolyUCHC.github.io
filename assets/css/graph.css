@@ -1,23 +1,25 @@
+/*===== GOOGLE FONTS =====*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
 body {
     font-family: "Noto Sans TC", sans-serif;
     margin: 0;
     padding: 0;
     background: #f6f6f6;
 }
-
-header {
-    background: #005792;
-    color: white;
-    padding: 1em;
-    text-align: center;
+:root {
+    --header-height: 60px; /* adjust to match your actual header height */
 }
 
+
 .container-button {
-    display: inline;
+    padding-top: 100px; /* Adds 100px space inside the container from the top */
+
     flex-wrap: wrap;
     gap: 2em;
-    padding: 1em;
+    /*padding: 1em;*/
     margin-bottom: 1em;
+    /*margin-top: var(--header-height);*/
 
 }
 
@@ -59,7 +61,7 @@ header {
 
 .container-graph {
     display: flex;
-    padding: 1em;
+    /*padding: 1em;*/
     gap: 1em;
     height: 85vh;
     position: relative;
@@ -116,3 +118,7 @@ header {
     padding: 1em;
     position: relative;
 }
+
+.nav__link.active-link { font-weight: bold; }
+
+
