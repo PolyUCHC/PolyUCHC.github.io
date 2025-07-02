@@ -29,3 +29,32 @@ header {
     background: #fff8dc;
     border: 1px solid #ccc;
 }
+
+
+.zoom-controls {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    z-index: 10;
+}
+
+.zoom-controls button {
+    font-size: 20px;
+    padding: 8px 12px;
+    margin: 5px;
+    background: #005792;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+}
+
+.zoom-controls button:hover {
+    background: #007ac2;
+}
+
+.container {
+    padding: 1em;
+    position: relative;
+}

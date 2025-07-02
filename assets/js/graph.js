@@ -54,3 +54,14 @@ network.on("click", function (params) {
         infoPanel.innerHTML = "點選節點以顯示資訊";
     }
 });
+
+// Zoom control
+document.getElementById('zoomIn').addEventListener('click', () => {
+    const scale = network.getScale();
+    network.moveTo({ scale: scale * 1.2 });
+});
+
+document.getElementById('zoomOut').addEventListener('click', () => {
+    const scale = network.getScale();
+    network.moveTo({ scale: scale * 0.8 });
+});
