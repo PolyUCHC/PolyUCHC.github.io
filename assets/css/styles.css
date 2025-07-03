@@ -250,6 +250,41 @@ img {
   border-radius: 0.5rem;
 }
 
+.about__content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.about__headline {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--first-color);
+  margin-bottom: 1.5rem;
+}
+
+.about__email {
+  font-weight: 500;
+  color: #0056cc;
+  text-decoration: underline;
+}
+
+.about__email:hover {
+  color: #003d99;
+}
+
+/*.about__content {*/
+/*  max-width: 850px;*/
+/*  margin: 2rem auto;*/
+/*  text-align: center;*/
+/*  padding: 2rem;*/
+/*  background-color: #f9f9f9;*/
+/*  border: 1px solid #e0e0e0;*/
+/*  border-radius: 12px;*/
+/*  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);*/
+/*}*/
+
 /* ===== SKILLS =====*/
 .skills__container {
   row-gap: 2rem;
@@ -534,3 +569,4 @@ img {
     width: 450px;
   }
 }
+/*color of icon* = b6976b/
