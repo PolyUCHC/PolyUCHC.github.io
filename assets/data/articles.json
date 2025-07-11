@@ -1,0 +1,1185 @@
+[
+  {
+    "source":"arXiv",
+    "title":"Learning Streaming Video Representation via Multitask Training",
+    "authors":"Yibin Yan, Jilan Xu, Shangzhe Di, Yikun Liu, Yudi Shi, Qirui Chen, Zeqian Li, Yifei Huang, Weidi Xie",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20041v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Towards Automated Scoping of AI for Social Good Projects",
+    "authors":"Jacob Emmerson, Rayid Ghani, Zheyuan Ryan Shi",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20010v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"How Group Lives Go Well",
+    "authors":"John Beverley, Regina Hurley",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19968v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI",
+    "authors":"Hugo Georgenthum, Cristian Cosentino, Fabrizio Marozzo, Pietro Li\u00f2",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19918v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Prompt Injection Attack to Tool Selection in LLM Agents",
+    "authors":"Jiawen Shi, Zenghui Yuan, Guiyao Tie, Pan Zhou, Neil Zhenqiang Gong, Lichao Sun",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19793v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Moral Reasoning Across Languages: The Critical Role of Low-Resource Languages in LLMs",
+    "authors":"Huichi Zhou, Zehao Xu, Munan Zhao, Kaihong Li, Yiqiang Li, Hongtao Wang",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19759v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Reconstructing Context: Evaluating Advanced Chunking Strategies for Retrieval-Augmented Generation",
+    "authors":"Carlo Merola, Jaspinder Singh",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19754v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"PhyloProfile v2 -- Exploring multi-layered phylogenetic profiles at scale",
+    "authors":"Vinh Tran, Ingo Ebersberger",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19710v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"SubGrapher: Visual Fingerprinting of Chemical Structures",
+    "authors":"Lucas Morin, Gerhard Ingmar Meijer, Val\u00e9ry Weber, Luc Van Gool, Peter W. J. Staar",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19695v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"A Tripartite Perspective on GraphRAG",
+    "authors":"Michael Banf, Johannes Kuhn",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19667v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Mapping the Italian Telegram Ecosystem",
+    "authors":"Lorenzo Alvisi, Serena Tardelli, Maurizio Tesconi",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19594v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Crowd Detection Using Very-Fine-Resolution Satellite Imagery",
+    "authors":"Tong Xiao, Qunming Wang, Ping Lu, Tenghai Huang, Xiaohua Tong, Peter M. Atkinson",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19546v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Do Automatic Comment Generation Techniques Fall Short? Exploring the Influence of Method Dependencies on Code Understanding",
+    "authors":"Md Mustakim Billah, Md Shamimur Rahman, Banani Roy",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19459v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Context-Guided Dynamic Retrieval for Improving Generation Quality in RAG Models",
+    "authors":"Jacky He, Guiran Liu, Binrong Zhu, Hanlu Zhang, Hongye Zheng, Xiaokai Wang",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19436v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Explanatory Summarization with Discourse-Driven Planning",
+    "authors":"Dongqi Liu, Xi Yu, Vera Demberg, Mirella Lapata",
+    "date":"2025-04-27",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19339v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Ethical Challenges of Using Artificial Intelligence in Judiciary",
+    "authors":"Angel Mary John, Aiswarya M. U., Jerrin Thomas Panachakel",
+    "date":"2025-04-27",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19284v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Dynamic Embedded Topic Models: properties and recommendations based on diverse corpora",
+    "authors":"Elisabeth Fittschen, Bella Xia, Leib Celnik, Paul Dilley, Tom Lippincott",
+    "date":"2025-04-27",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19209v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Global Climate Model Bias Correction Using Deep Learning",
+    "authors":"Abhishek Pasula, Deepak N. Subramani",
+    "date":"2025-04-27",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19145v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"ODE-Former for Mobile Channel Prediction: A Novel Learning Structure Leveraging The Physics Continuity",
+    "authors":"Zhuoran Xiao",
+    "date":"2025-04-27",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19122v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Rotation excursion algorithm with learning",
+    "authors":"Sheng-Xue He",
+    "date":"2025-04-27",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19117v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"CompleteMe: Reference-based Human Image Completion",
+    "authors":"Yu-Ju Tsai, Brian Price, Qing Liu, Luis Figueroa, Daniil Pakhomov, Zhihong Ding, Scott Cohen, Ming-Hsuan Yang",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20042v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design",
+    "authors":"Linshi Li, Hanlin Cai",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20016v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses",
+    "authors":"Sahel Sharifymoghaddam, Shivani Upadhyay, Nandan Thakur, Ronak Pradeep, Jimmy Lin",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20006v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Socially-Aware Autonomous Driving: Inferring Yielding Intentions for Safer Interactions",
+    "authors":"Jing Wang, Yan Jin, Hamid Taghavifar, Fei Ding, Chongfeng Wei",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20004v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Mitigating Societal Cognitive Overload in the Age of AI: Challenges and Directions",
+    "authors":"Salem Lahlou",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19990v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Real-Time Imitation of Human Head Motions, Blinks and Emotions by Nao Robot: A Closed-Loop Approach",
+    "authors":"Keyhan Rayati, Amirhossein Feizi, Alireza Beigy, Pourya Shahverdi, Mehdi Tale Masouleh, Ahmad Kalhor",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19985v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"TD-EVAL: Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons",
+    "authors":"Emre Can Acikgoz, Carl Guo, Suvodip Dey, Akul Datta, Takyoung Kim, Gokhan Tur, Dilek Hakkani-T\u00fcr",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19982v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets",
+    "authors":"Adam Younsi, Abdalgader Abubaker, Mohamed El Amine Seddik, Hakim Hacid, Salem Lahlou",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19981v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Shopformer: Transformer-Based Framework for Detecting Shoplifting via Human Pose",
+    "authors":"Narges Rashvand, Ghazal Alinezhad Noghre, Armin Danesh Pazho, Babak Rahimi Ardabili, Hamed Tabkhi",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19970v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents",
+    "authors":"Vineeth Sai Narajala, Om Narayan",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19956v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Data-Driven Stabilization of Unknown Linear-Threshold Network Dynamics",
+    "authors":"Xuan Wang, Duy Duong-Tran, Jorge Cort\u00e9s",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19950v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Capturing Aerodynamic Characteristics of ATTAS Aircraft with Evolving Intelligent System",
+    "authors":"Aydo\u011fan Soylu, Tufan Kumbasar",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19949v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Tendon-Actuated Concentric Tube Endonasal Robot (TACTER)",
+    "authors":"Kent K. Yamamoto, Tanner J. Zachem, Pejman Kheradmand, Patrick Zheng, Jihad Abdelgadir, Jared Laurance Bailey, Kaelyn Pieter, Patrick J. Codd, Yash Chitalia",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19948v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Can AI Agents Design and Implement Drug Discovery Pipelines?",
+    "authors":"Khachik Smbatyan, Tsolak Ghukasyan, Tigran Aghajanyan, Hovhannes Dabaghyan, Sergey Adamyan, Aram Bughdaryan, Vahagn Altunyan, Gagik Navasardyan, Aram Davtyan, Anush Hakobyan, Aram Gharibyan, Arman Fahradyan, Artur Hakobyan, Hasmik Mnatsakanyan, Narek Ginoyan, Garik Petrosyan",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19912v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Using Fixed and Mobile Eye Tracking to Understand How Visitors View Art in a Museum: A Study at the Bowes Museum, County Durham, UK",
+    "authors":"Claire Warwick, Andrew Beresford, Soazig Casteau, Hubert P. H. Shum, Dan Smith, Francis Xiatian Zhang",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19881v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"The Automation Advantage in AI Red Teaming",
+    "authors":"Rob Mulla, Will Pearce, Nick Landers, Brian Greunke, Brad Palm, Vincent Abruzzo, Ads Dawson",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19855v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Do You Know the Way? Human-in-the-Loop Understanding for Fast Traversability Estimation in Mobile Robotics",
+    "authors":"Andre Schreiber, Katherine Driggs-Campbell",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19851v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"To MT or not to MT: An eye-tracking study on the reception by Dutch readers of different translation and creativity levels",
+    "authors":"Kyo Gerrits, Ana Guerberof-Arenas",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19850v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Human-Centered AI and Autonomy in Robotics: Insights from a Bibliometric Study",
+    "authors":"Simona Casini, Pietro Ducange, Francesco Marcelloni, Lorenzo Pollini",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19848v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Foundation Model-Driven Framework for Human-Object Interaction Prediction with Segmentation Mask Integration",
+    "authors":"Juhan Park, Kyungjae Lee, Hyung Jin Chang, Jungchan Cho",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19847v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"On the Properties of Cosmological Ionization Fronts",
+    "authors":"Hanjue Zhu, Nickolay Y. Gnedin",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20046v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"exoALMA XV: Interpreting the height of CO emission layer",
+    "authors":"Giovanni P. Rosotti, Cristiano Longarini, Teresa Paneque-Carre\u00f1o, Gianni Cataldi, Maria Galloway-Sprietsma, Sean M. Andrews, Jaehan Bae, Marcelo Barraza-Alfaro, Myriam Benisty, Pietro Curone, Ian Czekala, Stefano Facchini, Daniele Fasano, Mario Flock, Misato Fukagawa, Himanshi Garg, Cassandra Hall, Jane Huang, John D. Ilee, Andr\u00e9s F. Izquierdo, Kazuhiro Kanagawa, Geoffroy Lesur, Giuseppe Lodato, Ryan A. Loomis, Ryuta Orihara, Christophe Pinte, Daniel J. Price, Jochen Stadler, Richard Teague, Gaylor Wafflard-Fernandez, Andrew J. Winter, Lisa W\u00f6lfer, Hsi-Wei Yen, Tomohiro C. Yoshida, Brianna Zawadzki",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20012v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Curiosity Driven Exploration to Optimize Structure-Property Learning in Microscopy",
+    "authors":"Aditya Vatsavai, Ganesh Narasimha, Yongtao Liu, Jan-Chi Yang, Hiroshu Funakubo, Maxim Ziatdinov, Rama Vasudevan",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20011v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Engineering Minimal k-Perfect Hash Functions",
+    "authors":"Stefan Hermann, Sebastian Kirmayer, Hans-Peter Lehmann, Peter Sanders, Stefan Walzer",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20001v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Simplified and Secure MCP Gateways for Enterprise AI Integration",
+    "authors":"Ivo Brett",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19997v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Rigorous lower bounds for the domains of definition of extended generating functions",
+    "authors":"B. Erdelyi, J. Hoefkens, M. Berz",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19993v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Mapping of Weed Management Methods in Orchards using Sentinel-2 and PlanetScope Data",
+    "authors":"Ioannis Kontogiorgakis, Iason Tsardanidis, Dimitrios Bormpoudakis, Ilias Tsoumas, Dimitra A. Loka, Christos Noulas, Alexandros Tsitouras, Charalampos Kontoes",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19991v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"HJRNO: Hamilton-Jacobi Reachability with Neural Operators",
+    "authors":"Yankai Li, Mo Chen",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19989v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"exoALMA III: Line-intensity Modeling and System Property Extraction from Protoplanetary Disks",
+    "authors":"Andr\u00e9s F. Izquierdo, Jochen Stadler, Maria Galloway-Sprietsma, Myriam Benisty, Christophe Pinte, Jaehan Bae, Richard Teague, Stefano Facchini, Lisa W\u00f6lfer, Cristiano Longarini, Pietro Curone, Sean M. Andrews, Marcelo Barraza-Alfaro, Gianni Cataldi, Nicol\u00e1s Cuello, Ian Czekala, Daniele Fasano, Mario Flock, Misato Fukagawa, Himanshi Garg, Cassandra Hall, Iain Hammond, Thomas Hilder, Jane Huang, John D. Ilee, Andrea Isella, Kazuhiro Kanagawa, Geoffroy Lesur, Giuseppe Lodato, Ryan A. Loomis, Ryuta Orihara, Daniel J. Price, Giovanni Rosotti, Leonardo Testi, Hsi-Wei Yen, Gaylor Wafflard-Fernandez, David J. Wilner, Andrew J. Winter, Tomohiro C. Yoshida, Brianna Zawadzki",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19986v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Mesh-Learner: Texturing Mesh with Spherical Harmonics",
+    "authors":"Yunfei Wan, Jianheng Liu, Jiarong Lin, Fu Zhang",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19938v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets",
+    "authors":"Mingqian He, Fei Zhao, Chonggang Lu, Ziyan Liu, Yue Wang, Haofu Qian",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19898v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Degree-1 maps and rank inequalities in Heegaard Floer homology",
+    "authors":"Fraser Binns, Sudipta Ghosh",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19871v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Factorization of multimeters: a unified view on nonclassical quantum phenomena",
+    "authors":"Tim Achenbach, Andreas Bluhm, Leevi Lepp\u00e4j\u00e4rvi, Ion Nechita, Martin Pl\u00e1vala",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19865v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language",
+    "authors":"Anastasia Zhukova, Christian E. Matt, Terry Ruas, Bela Gipp",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19856v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"exoALMA. XVI. Predicting Signatures of Large-scale Turbulence in Protoplanetary Disks",
+    "authors":"Marcelo Barraza-Alfaro, Mario Flock, William B\u00e9thune, Richard Teague, Jaehan Bae, Myriam Benisty, Gianni Cataldi, Pietro Curone, Ian Czekala, Stefano Facchini, Daniele Fasano, Misato Fukagawa, Maria Galloway-Sprietsma, Himanshi Garg, Cassandra Hall, Jane Huang, John D. Ilee, Andr\u00e9s F. Izquierdo, Kazuhiro Kanagawa, Eric W. Koch, Geoffroy Lesur, Cristiano Longarini, Ryan A. Loomis, Ryuta Orihara, Christophe Pinte, Daniel J. Price, Giovanni Rosotti, Jochen Stadler, Gaylor Wafflard-Fernandez, Andrew J. Winter, Lisa W\u00f6lfer, Hsi-Wei Yen, Tomohiro C. Yoshida, Brianna Zawadzki",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19853v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"AnimateAnywhere: Rouse the Background in Human Image Animation",
+    "authors":"Xiaoyu Liu, Mingshuai Yao, Yabo Zhang, Xianhui Lin, Peiran Ren, Xiaoming Li, Ming Liu, Wangmeng Zuo",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19834v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Quantum Error Correction in Quaternionic Hilbert Spaces",
+    "authors":"Valentine Nyirahafashimana, Nurisya Mohd Shah, Umair Abdul Halim, Mohamed Othman, Sharifah Kartini Said Husain",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19833v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models",
+    "authors":"Xin Wang, Haoyang Li, Zeyang Zhang, Haibo Chen, Wenwu Zhu",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20020v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"The Diffuse Solid Method for Wetting and Multiphase Fluid Simulations in Complex Geometries",
+    "authors":"Fandi Oktasendra, Michael Rennick, Samuel J. Avis, Jack R. Panter, Halim Kusumaatmaja",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19941v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Automated decision-making for dynamic task assignment at scale",
+    "authors":"Riccardo Lo Bianco, Willem van Jaarsveld, Jeroen Middelhuis, Luca Begnardi, Remco Dijkman",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19933v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"CineVerse: Consistent Keyframe Synthesis for Cinematic Scene Composition",
+    "authors":"Quynh Phung, Long Mai, Fabian David Caba Heilbron, Feng Liu, Jia-Bin Huang, Cusuh Ham",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19894v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Fiber laser based stimulated Raman photothermal microscopy with long working distance optics",
+    "authors":"Xiaowei Ge, Yifan Zhu, Dingcheng Sun, Hongli Ni, Yueming Li, Chinmayee V. Prabhu Dessai, Ji-Xin Cheng",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19875v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"CoherenDream: Boosting Holistic Text Coherence in 3D Generation via Multimodal Large Language Models Feedback",
+    "authors":"Chenhan Jiang, Yihan Zeng, Hang Xu, Dit-Yan Yeung",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19860v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"SRMF: A Data Augmentation and Multimodal Fusion Approach for Long-Tail UHR Satellite Image Segmentation",
+    "authors":"Yulong Guo, Zilun Zhang, Yongheng Shang, Tiancheng Zhao, Shuiguang Deng, Yingchun Yang, Jianwei Yin",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19839v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"EcoWikiRS: Learning Ecological Representation of Satellite Images from Weak Supervision with Species Observations and Wikipedia",
+    "authors":"Valerie Zermatten, Javiera Castillo-Navarro, Pallavi Jain, Devis Tuia, Diego Marcos",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19742v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"RepText: Rendering Visual Text via Replicating",
+    "authors":"Haofan Wang, Yujia Xu, Yimeng Li, Junchen Li, Chaowei Zhang, Jing Wang, Kejia Yang, Zhibo Chen",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19724v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Interactive Discovery and Exploration of Visual Bias in Generative Text-to-Image Models",
+    "authors":"Johannes Eschner, Roberto Labadie-Tamayo, Matthias Zeppelzauer, Manuela Waldner",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19703v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"ClearVision: Leveraging CycleGAN and SigLIP-2 for Robust All-Weather Classification in Traffic Camera Imagery",
+    "authors":"Anush Lakshman Sivaraman, Kojo Adu-Gyamfi, Ibne Farabi Shihab, Anuj Sharma",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19684v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Multimodal Conditioned Diffusive Time Series Forecasting",
+    "authors":"Chen Su, Yuanhe Tian, Yan Song",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19669v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Oscillation death by mechanochemical feedback",
+    "authors":"Phanindra Dewan, Soumyadeep Mondal, Sumantra Sarkar",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19655v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"A Comprehensive Part-of-Speech Tagging to Standardize Central-Kurdish Language: A Research Guide for Kurdish Natural Language Processing Tasks",
+    "authors":"Shadan Shukr Sabr, Nazira Sabr Mustafa, Talar Sabah Omar, Salah Hwayyiz Rasool, Nawzad Anwer Omer, Darya Sabir Hamad, Hemin Abdulhameed Shams, Omer Mahmood Kareem, Rozhan Noori Abdullah, Khabat Atar Abdullah, Mahabad Azad Mohammad, Haneen Al-Raghefy, Safar M. Asaad, Sara Jamal Mohammed, Twana Saeed Ali, Fazil Shawrow, Halgurd S. Maghdid",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19645v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"AutoJudge: Judge Decoding Without Manual Annotation",
+    "authors":"Roman Garipov, Fedor Velikonivtsev, Ruslan Svirschevski, Vage Egiazarian, Max Ryabinin",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20039v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images",
+    "authors":"Sara Yavari, Jacob Furst",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20033v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning",
+    "authors":"Wufei Ma, Yu-Cheng Chou, Qihao Liu, Xingrui Wang, Celso de Melo, Jieneng Chen, Jianwen Xie, Alan Yuille",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20024v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Better To Ask in English? Evaluating Factual Accuracy of Multilingual LLMs in English and Low-Resource Languages",
+    "authors":"Pritika Rohera, Chaitrali Ginimav, Gayatri Sawant, Raviraj Joshi",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20022v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Modelling of Underwater Vehicles using Physics-Informed Neural Networks with Control",
+    "authors":"Abdelhakim Amer, David Felsager, Yury Brodskiy, Andriy Sarabakha",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20019v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage",
+    "authors":"Anita Srbinovska, Angela Srbinovska, Vivek Senthil, Adrian Martin, John McCluskey, Ernest Fokou\u00e9",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20007v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Knowledge Distillation of Domain-adapted LLMs for Question-Answering in Telecom",
+    "authors":"Rishika Sen, Sujoy Roychowdhury, Sumit Soman, H. G. Ranjani, Srikhetra Mohanty",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20000v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Monitoring digestate application on agricultural crops using Sentinel-2 Satellite imagery",
+    "authors":"Andreas Kalogeras, Dimitrios Bormpoudakis, Iason Tsardanidis, Dimitra A. Loka, Charalampos Kontoes",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19996v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Semi-parametric bulk and tail regression using spline-based neural networks",
+    "authors":"Reetam Majumder, Jordan Richards",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19994v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Graph Neural Network Prediction of Nonlinear Optical Properties",
+    "authors":"Yomn Alkabakibi, Congwei Xie, Artem R. Oganov",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19987v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Emergence and scaling laws in SGD learning of shallow neural networks",
+    "authors":"Yunwei Ren, Eshaan Nichani, Denny Wu, Jason D. Lee",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19983v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Deep Declarative Risk Budgeting Portfolios",
+    "authors":"Manuel Parra-Diaz, Carlos Castro-Iragorri",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19980v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Transfer Learning Under High-Dimensional Network Convolutional Regression Model",
+    "authors":"Liyuan Wang, Jiachen Chen, Kathryn L. Lunetta, Danyang Huang, Huimin Cheng, Debarghya Mukherjee",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19979v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"How Charged Can Neutrinos Be?",
+    "authors":"Sudip Jana, Michael Klasen, Vishnu P. K",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20044v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Starlight from JWST: Implications for star formation and dark matter models",
+    "authors":"John Ellis, Malcolm Fairbairn, Juan Urrutia, Ville Vaskonen",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20043v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Unified and consistent structure growth measurements from joint ACT, SPT and \\textit{Planck} CMB lensing",
+    "authors":"Frank J. Qu, Fei Ge, W. L. Kimmy Wu, Irene Abril-Cabezas, Mathew S. Madhavacheril, Marius Millea, Ethan Anderes, Adam J. Anderson, Behzad Ansarinejad, Melanie Archipley, Zachary Atkins, Lennart Balkenhol, Nicholas Battaglia, Karim Benabed, Amy N. Bender, Bradford A. Benson, Federico Bianchini, Lindsey. E. Bleem, Boris Bolliet, J Richard Bond, Fran\u00e7ois. R. Bouchet, Lincoln Bryant, Erminia Calabrese, Etienne Camphuis, John E. Carlstrom, Julien Carron, Anthony Challinor, Clarence L. Chang, Prakrut Chaubal, Geoff Chen, Paul M. Chichura, Steve K. Choi, Aman Chokshi, Ti-Lin Chou, Anna Coerver, William Coulton, Thomas M. Crawford, Cail Daley, Omar Darwish, Tijmen de Haan, Mark J. Devlin, Karia R. Dibert, Matthew A. Dobbs, Michael Doohan, Aristide Doussot, Adriaan J. Duivenvoorden, Jo Dunkley, Rolando Dunner, Daniel Dutcher, Carmen Embil Villagra, Wendy Everett, Gerrit S. Farren, Chang Feng, Simone Ferraro, Kyle R. Ferguson, Kyra Fichman, Emily Finson, Allen Foster, Patricio A. Gallardo, Silvia Galli, Anne E. Gambrel, Rob W. Gardner, Neil Goeckner-Wald, Riccardo Gualtieri, Federica Guidi, Sam Guns, Mark Halpern, Nils W. Halverson, J. Colin Hill, Matt Hilton, Eric Hivon, Gilbert P. Holder, William L. Holzapfel, John C. Hood, Doug Howe, Alec Hryciuk, Nicholas Huang, Johannes Hubmayr, Florian K\u00e9ruzor\u00e9, Ali R. Khalife, Joshua Kim, Lloyd Knox, Milo Korman, Kayla Kornoelje, Arthur Kosowsky, Chao-Lin Kuo, Hidde T. Jense, Adrien La Posta, Kevin Levy, Amy E. Lowitz, Thibaut Louis, Chunyu Lu, Gabriel P. Lynch, Niall MacCrann, Abhishek Maniyar, Emily S. Martsen, Jeff McMahon, Felipe Menanteau, Joshua Montgomery, Yuka Nakato, Kavilan Moodley, Toshiya Namikawa, Tyler Natoli, Michael D. Niemack, Gavin I. Noble, Yuuki Omori, Aaron Ouellette, Lyman A. Page, Zhaodi Pan, Pascal Paschos, Kedar A. Phadke, Alexander W. Pollak, Karthik Prabhu, Wei Quan, Srinivasan Raghunathan, Mahsa Rahimi, Alexandra Rahlin, Christian L. Reichardt, Dave Riebel, Maclean Rouble, John E. Ruhl, Emmanuel Schaan, Eduardo Schiappucci, Neelima Sehgal, Carlos E. Sierra, Aidan Simpson, Blake D. Sherwin, Crist\u00f3bal Sif\u00f3n, David N. Spergel, Suzanne T. Staggs, Joshua A. Sobrin, Antony A. Stark, Judith Stephen, Chris Tandoi, Ben Thorne, Cynthia Trendafilova, Caterina Umilta, Alexander Van Engelen, Joaquin D. Vieira, Aline Vitrier, Yujie Wan, Nathan Whitehorn, Edward J. Wollack, Matthew R. Young, Jessica A. Zebrowski",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20038v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Pan-genome Analysis of Angiosperm Plastomes using PGR-TK",
+    "authors":"Manoj P. Samanta",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20034v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"More Clear, More Flexible, More Precise: A Comprehensive Oriented Object Detection benchmark for UAV",
+    "authors":"Kai Ye, Haidi Tang, Bowen Liu, Pingyang Dai, Liujuan Cao, Rongrong Ji",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20032v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"All-Subsets Important Separators with Applications to Sample Sets, Balanced Separators and Vertex Sparsifiers in Directed Graphs",
+    "authors":"Aditya Anand, Euiwoong Lee, Jason Li, Thatchaphol Saranurak",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20027v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"exoALMA. XVII. Characterizing the Gas Dynamics around Dust Asymmetries",
+    "authors":"Lisa W\u00f6lfer, Marcelo Barraza-Alfaro, Richard Teague, Pietro Curone, Myriam Benisty, Misato Fukagawa, Jaehan Bae, Gianni Cataldi, Ian Czekala, Stefano Facchini, Daniele Fasano, Mario Flock, Maria Galloway-Sprietsma, Himanshi Garg, Cassandra Hall, Jane Huang, John D. Ilee, Andr\u00e9s F. Izquierdo, Kazuhiro Kanagawa, Geoffroy Lesur, Cristiano Longarini, Ryan A. Loomis, Francois Menard, Anika Nath, Ryuta Orihara, Christophe Pinte, Daniel J. Price, Giovanni Rosotti, Jochen Stadler, Gaylor Wafflard-Fernandez, Andrew J. Winter, Hsi-Wei Yen, Tomohiro C. Yoshida, Brianna Zawadzki",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20023v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion",
+    "authors":"Zador Pataki, Paul-Edouard Sarlin, Johannes L. Sch\u00f6nberger, Marc Pollefeys",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20040v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Towards Scalable Braiding: Topological Superconductivity Unlocked under Nearly Arbitrary Magnetic Field Directions in Planar Josephson Junctions",
+    "authors":"Richang Huang, Yongliang Hu, Xianzhang Chen, Peng Yu, Igor Zutic, Tong Zhou",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20031v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Textured growth and electrical characterization of Zinc Sulfide on back-end-of-the-line (BEOL) compatible substrates",
+    "authors":"Claire Wu, Mythili Surendran, Anika Tabassum Priyoti, Gokul Anilkumar, Cheng-Hsien Wu, Chun-Chen Wang, Cheng-Chen Kuo, Harish Kumasubramanian, Kenta Lin, Amari Butler, Rehan Kapadia, Xinyu Bao, Jayakanth Ravichandran",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20028v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields",
+    "authors":"Zhengqin Li, Dilin Wang, Ka Chen, Zhaoyang Lv, Thu Nguyen-Phuoc, Milim Lee, Jia-Bin Huang, Lei Xiao, Cheng Zhang, Yufeng Zhu, Carl S. Marshall, Yufeng Ren, Richard Newcombe, Zhao Dong",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20026v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Constructing Magic Squares: an integer linear programming model and a fast heuristic",
+    "authors":"Jo\u00e3o Vitor Pamplona, Maria Eduarda Pinheiro, Luiz-Rafael Santos",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20017v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation",
+    "authors":"Beizhe Hu, Qiang Sheng, Juan Cao, Yang Li, Danding Wang",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20013v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Kinodynamic Trajectory Following with STELA: Simultaneous Trajectory Estimation & Local Adaptation",
+    "authors":"Edgar Granados, Sumanth Tangirala, Kostas E. Bekris",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20009v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"On the Complexity of Identifying Groups without Abelian Normal Subgroups: Parallel, First Order, and GI-Hardness",
+    "authors":"Joshua A. Grochow, Dan Johnson, Michael Levet",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19777v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Systematic Hardware Integration Testing for Smart Video-based Medical Device Prototypes",
+    "authors":"Oliver Bause, Julia Werner, Oliver Bringmann",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19533v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Towards Latency-Aware 3D Streaming Perception for Autonomous Driving",
+    "authors":"Jiaqi Peng, Tai Wang, Jiangmiao Pang, Yuan Shen",
+    "date":"2025-04-27",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19115v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Selecting Optimal Candidate Profiles in Adversarial Environments Using Conjoint Analysis and Machine Learning",
+    "authors":"Connor T. Jerzak, Priyanshi Chandra, Rishi Hazra",
+    "date":"2025-04-26",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19043v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Theoretical Framework for Tempered Fractional Gradient Descent: Application to Breast Cancer Classification",
+    "authors":"Omar Naifar",
+    "date":"2025-04-26",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18849v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"The Radiation Pressure of Light: historical perspectives and the role of structured light",
+    "authors":"Alexander C. Trowbridge, Ewan M. Wright, Kishan Dholakia",
+    "date":"2025-04-26",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18789v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"The Japanese Personnel Inquiry Records (PIR): Elite, Adoption, Family Composition in the 1900s",
+    "authors":"Hiroshi Kumanomido, Yutaro Takayasu, Suguru Otani",
+    "date":"2025-04-26",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18788v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"CAMeL: Cross-modality Adaptive Meta-Learning for Text-based Person Retrieval",
+    "authors":"Hang Yu, Jiahao Wen, Zhedong Zheng",
+    "date":"2025-04-26",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18782v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Global Simulations of Gravitational Instability in Protostellar Disks with Full Radiation Transport II. Locality of Gravitoturbulence, Clumpy Spirals, and Implications for Observable Substructure",
+    "authors":"Wenrui Xu, Yan-Fei Jiang, Matthew W. Kunz, James M. Stone",
+    "date":"2025-04-26",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18751v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Building UD Cairo for Old English in the Classroom",
+    "authors":"Lauren Levine, Junghyun Min, Amir Zeldes",
+    "date":"2025-04-25",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18718v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Transformational Creativity in Science: A Graphical Theory",
+    "authors":"Samuel Schapiro, Jonah Black, Lav R. Varshney",
+    "date":"2025-04-25",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18687v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Modelling collective cell migration in a data-rich age: challenges and opportunities for data-driven modelling",
+    "authors":"Ruth E. Baker, Rebecca M. Crossley, Carles Falco, Simon F. Martina-Perez",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19974v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Automated Generation of Precedence Graphs in Digital Value Chains for Automotive Production",
+    "authors":"Cornelius Hake, Christian Friedrich",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19835v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Optimal real-time dynamic treatment regimes with application to oxytocin use in preventing postpartum hemorrhage",
+    "authors":"Haiyan Zhu, Yingchun Zhou",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19831v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"HOIGaze: Gaze Estimation During Hand-Object Interactions in Extended Reality Exploiting Eye-Hand-Head Coordination",
+    "authors":"Zhiming Hu, Daniel Haeufle, Syn Schmitt, Andreas Bulling",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19828v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Digital Twin-based Out-of-Distribution Detection in Autonomous Vessels",
+    "authors":"Erblin Isaku, Hassan Sartaj, Shaukat Ali",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19816v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"St4DeM: A software suite for multi-modal 4D-STEM acquisition techniques",
+    "authors":"Toni Uusimaeki, Cheuk-Wai Tai, Tom Willhammar, Thomas Thersleff, Hasan Ali, Seda Ulusoy, Meltem Sezen, Bora Derin",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19762v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Rediscovery",
+    "authors":"Martino Banchio, Suraj Malladi",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19761v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"On the unique evolutionary mechanisms of massive quiescent galaxies in the epoch of reionisation",
+    "authors":"Harry George Chittenden, Karl Glazebrook, Themiya Nanayakkara, Lalitwadee Kawinwanichakij, Claudia Lagos, Lucas Kimmig, Rhea-Silvia Remus",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19696v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Annif at SemEval-2025 Task 5: Traditional XMTC augmented by LLMs",
+    "authors":"Osma Suominen, Juho Inkinen, Mona Lehtinen",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19675v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Gaia FGK Benchmark Stars: spectral library, metallicities and abundances of $\u03b1$ and Fe-peak elements of the third version",
+    "authors":"L. Casamiquela, C. Soubiran, P. Jofr\u00e9, S. Vitali, S. Blanco-Cuaresma, N. Lagarde, D. Slumstrup, J. T. Palmerio, N. Brouillet, S. Elgueta, A. Rojas-Arriagada, C. Aguilera-G\u00f3mez, I. Hern\u00e1ndez-Araya, O. L. Creevey, U. Heiter, L. Balaguer-N\u00fa\u00f1ez, R. Carrera",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19648v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"From Paper Trails to Trust on Tracks: Adding Public Transparency to Railways via zk-SNARKs",
+    "authors":"Tarek Galal, Valeria Tisch, Katja Assaf, Andreas Polze",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19640v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"QFDNN: A Resource-Efficient Variational Quantum Feature Deep Neural Networks for Fraud Detection and Loan Prediction",
+    "authors":"Subham Das, Ashtakala Meghanath, Bikash K. Behera, Shahid Mumtaz, Saif Al-Kuwari, Ahmed Farouk",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19632v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Rulebook: bringing co-routines to reinforcement learning environments",
+    "authors":"Massimo Fioravanti, Samuele Pasini, Giovanni Agosta",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19625v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Automatic Configuration Protocols for Optical Quantum Networks",
+    "authors":"Amin Taherkhani, Andrew Todd, Kentaro Teramoto, Shota Nagayama, Rodney Van Meter",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19613v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Lifecycle Management of Optical Networks with Dynamic-Updating Digital Twin: A Hybrid Data-Driven and Physics-Informed Approach",
+    "authors":"Yuchen Song, Min Zhang, Yao Zhang, Yan Shi, Shikui Shen, Xiongyan Tang, Shanguo Huang, Danshi Wang",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19564v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Further examples of apodictic discourse, I",
+    "authors":"Satyanad Kichenassamy",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19548v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Polarization of light from fast rotating Wolf-Rayet stars: A Monte Carlo simulations compared to analytical formula",
+    "authors":"Slah Abdellaoui, Ji\u0159\u00ed Krti\u010dka, Brankica Kub\u00e1tov\u00e1, Petr Kurf\u00fcrst",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20037v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Towards Non-Abelian Quantum Signal Processing: Efficient Control of Hybrid Continuous- and Discrete-Variable Architectures",
+    "authors":"Shraddha Singh, Baptiste Royer, Steven M. Girvin",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19992v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Stochastic Subspace via Probabilistic Principal Component Analysis for Characterizing Model Error",
+    "authors":"Akash Yadav, Ruda Zhang",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19963v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Analytical solutions for the Extracellular-Membrane-Intracellular model",
+    "authors":"Carlos Ballesteros, Alexei Cheviakov, Raymond J. Spiteri",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19960v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Gravitational lensing by $k-n$ generalized black-bounce space-times",
+    "authors":"C. Furtado, A. L. A. Moreira, J. R. Nascimento, A. Yu. Petrov, P. J. Porfirio",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19920v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Analytic reconstruction with massive particles: one-loop amplitudes for $0 \\to \\bar{q}qt\\bar{t}H$",
+    "authors":"John M. Campbell, Giuseppe De Laurentis, R. Keith Ellis",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19909v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Convergence Analysis of Asynchronous Federated Learning with Gradient Compression for Non-Convex Optimization",
+    "authors":"Diying Yang, Yingwei Hou, Danyang Xiao, Weigang Wu",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19903v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"exoALMA V: Gaseous Emission Surfaces and Temperature Structures",
+    "authors":"Maria Galloway-Sprietsma, Jaehan Bae, Andr\u00e9s F. Izquierdo, Jochen Stadler, Cristiano Longarini, Richard Teague, Sean M. Andrews, Andrew J. Winter, Myriam Benisty, Stefano Facchini, Giovanni Rosotti, Brianna Zawadzki, Christophe Pinte, Daniele Fasano, Marcelo Barraza-Alfaro, Gianni Cataldi, Nicol\u00e1s Cuello, Pietro Curone, Ian Czekala, Mario Flock, Misato Fukagawa, Charles H. Gardner, Himanshi Garg, Cassandra Hall, Jane Huang, John D. Ilee, Kazuhiro Kanagawa, Geoffroy Lesur, Giuseppe Lodato, Ryan A. Loomis, Francois Menard, Ryuta Orihara, Daniel J. Price, Gaylor Wafflard-Fernandez, David J. Wilner, Lisa W\u00f6lfer, Hsi-Wei Yen, Tomohiro C. Yoshida",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19902v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Infinite temperature transport in the strong coupling regime of a nonintegrable quantum spin chain",
+    "authors":"Zhi-Hua Li",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19873v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"A nonlinear diffusion equation of the Gurtin-MacCamy type: existence, uniqueness, and numerical simulations",
+    "authors":"Dragos-Patru Covei",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19823v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"OmicsQ: A User-Friendly Platform for Interactive Quantitative Omics Data Analysis",
+    "authors":"Xuan-Tung Trinh, Andr\u00e9 Abrantes da Costa, David Bouyssi\u00e9, Adelina Rogowska-Wrzesinska, Veit Schw\u00e4mmle",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19813v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Fixed point theorems for small divisors problems",
+    "authors":"Mauricio Garay, Duco van Straten",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19808v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"$\u03b7$-pairing states in the Hubbard model with non-uniform Hubbard interaction",
+    "authors":"D. K. He, Z. Song",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19786v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"QuickGrasp: Lightweight Antipodal Grasp Planning with Point Clouds",
+    "authors":"Navin Sriram Ravie, Keerthi Vasan M, Asokan Thondiyath, Bijo Sebastian",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19716v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Timelike entanglement entropy with gravitational anomalies",
+    "authors":"Chong-Sun Chu, Himanshu Parihar",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19694v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Eppur si muove: Shape of topological defects -- in active nematics",
+    "authors":"Giacomo Marco La Montagna, Sumeja Burekovic, Ananyo Maitra, Cesare Nardini",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19665v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of recurrent neural networks",
+    "authors":"Shotaro Takasu, Toshio Aoyagi",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19657v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"The impact of the TMD shape function on matching the transverse momentum spectrum in $J\/\u03c8$ production at the EIC",
+    "authors":"Luca Maxia, Dani\u00ebl Boer, Jelle Bor",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19617v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Taming the Randomness: Towards Label-Preserving Cropping in Contrastive Learning",
+    "authors":"Mohamed Hassan, Mohammad Wasil, Sebastian Houben",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19824v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Discrimination performance in illness-death models with interval-censored disease data",
+    "authors":"Anja J. Rueten-Budde, Marta Spreafico, Hein Putter, Marta Fiocco",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19726v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Coreference Resolution for Vietnamese Narrative Texts",
+    "authors":"Hieu-Dai Tran, Duc-Vu Nguyen, Ngan Luu-Thuy Nguyen",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19606v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Apodictic discourse and the Cauchy-Bunyakovsky-Schwarz inequality",
+    "authors":"Satyanad Kichenassamy",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19543v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Improving Reasoning Performance in Large Language Models via Representation Engineering",
+    "authors":"Bertram H\u00f8jer, Oliver Jarvis, Stefan Heinrich",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19483v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Performance Analysis of OpenVPN on a Consumer Grade Router",
+    "authors":"Michael J. Hall",
+    "date":"2025-04-27",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19069v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"\"I Would Have Written My Code Differently'': Beginners Struggle to Understand LLM-Generated Code",
+    "authors":"Yangtian Zi, Luisa Li, Arjun Guha, Carolyn Jane Anderson, Molly Q Feldman",
+    "date":"2025-04-26",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19037v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Secret Sharing for DNA Probability Vectors",
+    "authors":"Wenkai Zhang, Zhiying Wang",
+    "date":"2025-04-26",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18970v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Which kind of research papers influence policymaking",
+    "authors":"Pablo Dorta-Gonz\u00e1lez",
+    "date":"2025-04-26",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18889v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Unraveling the Lyman Continuum Emission of Ion3: Insights from HST multi-band imaging and X-Shooter spectroscopy",
+    "authors":"U. Me\u0161tri\u0107, E. Vanzella, A. Beckett, M. Rafelski, C. Grillo, M. Giavalisco, M. Messa, M. Castellano, F. Calura, G. Cupani, A. Zanella, P. Bergamini, M. Meneghetti, A. Mercurio, P. Rosati, M. Nonino, K. Caputi, A. Comastri",
+    "date":"2025-04-25",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18711v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Can Third-parties Read Our Emotions?",
+    "authors":"Jiayi Li, Yingfan Zhou, Pranav Narayanan Venkit, Halima Binte Islam, Sneha Arya, Shomir Wilson, Sarah Rajtmajer",
+    "date":"2025-04-25",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18673v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Synchrotron light source focused X-ray detection with LGADs, AC-LGADs and TI-LGADs",
+    "authors":"A. Molnar, Y. Zhao, S. M. Mazza, G. Oregan, M. Davis, S. Beringer, A. Tiernan, J. Ott, M. Leite, G. Saito, M. Moralles, H. F. -W. Sadrozinski, A. Seiden, B. Schumm, F. McKinney-Martinez, A. Bisht, M. Centis-Vignali, G. Paternoster, M. Boscardin",
+    "date":"2025-04-25",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18638v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Facets, Taxonomies, and Syntheses: Navigating Structured Representations in LLM-Assisted Literature Review",
+    "authors":"Raymond Fok, Joseph Chee Chang, Marissa Radensky, Pao Siangliulue, Jonathan Bragg, Amy X. Zhang, Daniel S. Weld",
+    "date":"2025-04-25",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18496v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Statistical Disaggregation -- a Monte Carlo Approach for Imputation under Constraints",
+    "authors":"Shenggang Hu, Hongsheng Dai, Fanlin Meng, Louis Aslett, Murray Pollock, Gareth O. Roberts",
+    "date":"2025-04-25",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18377v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Achievable Rates and Error Probability Bounds of Frequency-based Channels of Unlimited Input Resolution",
+    "authors":"Ran Tamir, Nir Weinberger",
+    "date":"2025-04-25",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18364v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Depth-Constrained ASV Navigation with Deep RL and Limited Sensing",
+    "authors":"Amirhossein Zhalehmehrabi, Daniele Meli, Francesco Dal Santo, Francesco Trotti, Alessandro Farinelli",
+    "date":"2025-04-25",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18253v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"A Data-Centric Approach to 3D Semantic Segmentation of Railway Scenes",
+    "authors":"Nicolas M\u00fcnger, Max Peter Ronecker, Xavier Diaz, Michael Karner, Daniel Watzenig, Jan Skaloud",
+    "date":"2025-04-25",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18213v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"From Cluster to Desktop: A Cache-Accelerated INR framework for Interactive Visualization of Tera-Scale Data",
+    "authors":"Daniel Zavorotny, Qi Wu, David Bauer, Kwan-Liu Ma",
+    "date":"2025-04-25",
+    "url":"http:\/\/arxiv.org\/abs\/2504.18001v2"
+  },
+  {
+    "source":"arXiv",
+    "title":"Up-type FCNC in presence of Dark Matter",
+    "authors":"Subhaditya Bhattacharya, Lipika Kolay, Dipankar Pradhan, Abhik Sarkar",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20045v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality",
+    "authors":"Brandon Woodard, Melvin He, Mose Sakashita, Jing Qian, Zainab Iftikhar, Joseph LaViola Jr",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20035v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Allele trees for the mother-dependent neutral mutations model and their scaling limits in the rare mutations regime",
+    "authors":"Airam Blancas, Maria Clara Fittipaldi, Sarai Hernandez-Torres",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20030v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Invertible Morava motives in quadrics",
+    "authors":"Andrei Lavrenov, Pavel Sechin",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20029v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Local primordial non-Gaussianity from 'zero-bias' 21cm radiation during reionization",
+    "authors":"Nickolas Kokron",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20025v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Exploring two dimensional $\\mathbb{Z}_2$ invariant phases with time reversal symmetry and their transitions with topological operations",
+    "authors":"Ryan C. Spieler",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20021v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"Boundary crisis and long transients of the Atlantic overturning circulation mediated by an edge state",
+    "authors":"Reyk B\u00f6rner, Oliver Mehling, Jost von Hardenberg, Valerio Lucarini",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.20002v1"
+  },
+  {
+    "source":"arXiv",
+    "title":"3D MPSoC with On-Chip Cache Support -- Design and Exploitation",
+    "authors":"Rodrigo Cataldo, Cesar Marcon, Debora Matos",
+    "date":"2025-04-28",
+    "url":"http:\/\/arxiv.org\/abs\/2504.19984v1"
+  }
+]
