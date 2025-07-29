@@ -121,6 +121,9 @@ img {
   justify-content: space-between;
   align-items: center;
   font-weight: var(--font-semi);
+  flex-wrap: nowrap; /* Prevent wrapping */
+
+
 }
 @media screen and (max-width: 767px) {
   .nav__menu {
@@ -155,7 +158,17 @@ img {
 }
 .nav__logo {
   color: var(--second-color);
+
 }
+/*.nav__logo {*/
+/*  color: var(--second-color);*/
+/*  white-space: nowrap; !* Prevent it from wrapping *!*/
+/*  font-size: 1rem;       !* Optional: slightly reduce if needed *!*/
+/*  max-width: 300px;      !* Optional: constrain width on smaller screens *!*/
+/*  overflow: hidden;      !* Optional: if text is too long *!*/
+/*  text-overflow: ellipsis; !* Optional: adds ... if overflowed *!*/
+/*}*/
+
 .nav__toggle {
   color: var(--second-color);
   font-size: 1.5rem;
@@ -292,6 +305,7 @@ img {
 }
 .skills__subtitle {
   margin-bottom: var(--mb-2);
+  text-align: center;
 }
 .skills__text {
   margin-bottom: var(--mb-4);
@@ -522,6 +536,8 @@ img {
   .nav__list {
     display: flex;
     padding-top: 0;
+    white-space: nowrap;
+
   }
   .nav__item {
     margin-left: var(--mb-6);
