@@ -11,6 +11,41 @@ const showMenu = (toggleId, navId) =>{
 }
 showMenu('nav-toggle','nav-menu')
 
+/*==================== NEWS ====================*/
+async function loadNewsFromDocx() {
+    const response = await fetch('assets/data/news.docx');
+    const arrayBuffer = await response.arrayBuffer();
+
+    mammoth.convertToHtml({ arrayBuffer })
+        .then(result => {
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = result.value;
+
+            const firstImg = tempDiv.querySelector("img");
+            if (firstImg) firstImg.remove(); // Remove from text
+
+            const paragraphs = tempDiv.querySelectorAll('p');
+            const textHtml = Array.from(paragraphs).map(p => p.outerHTML).join('');
+
+            const container = document.getElementById('news-container');
+            container.innerHTML = `
+              <div class="news-flex">
+                <div class="news-text">
+                  ${textHtml}
+                </div>
+                <div class="news-image">
+                  ${firstImg ? firstImg.outerHTML : ''}
+                </div>
+              </div>
+            `;
+        })
+        .catch(err => console.error("Error loading Word doc:", err));
+}
+loadNewsFromDocx();
+
+
+
+
 /*==================== REMOVE MENU MOBILE ====================*/
 const navLink = document.querySelectorAll('.nav__link')
 
@@ -54,4 +89,5 @@ const sr = ScrollReveal({
 sr.reveal('.home__data, .about__img, .skills__subtitle, .skills__text',{}); 
 sr.reveal('.home__img, .about__subtitle, .about__text, .skills__img',{delay: 400}); 
 sr.reveal('.home__social-icon',{ interval: 200}); 
-sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200}); 
+sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200});
+

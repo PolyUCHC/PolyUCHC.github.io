@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link rel="stylesheet" href="assets/css/styles.css">   <!-- global UI styles -->
         <link rel="stylesheet" href="assets/css/graph.css">     <!-- only graph-specific tweaks -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 
         <!-- =====BOX ICONS===== -->
-        <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
 
         <title>PolyU CHC AI Learning Hub</title>
     </head>
@@ -56,33 +57,21 @@
             </section>
 
             <!--===== ABOUT =====-->
-            <section class="about section " id="news">
-                <h2 class="section-title">News & Updates (最新資訊) </h2>
-
-                <div class="about__content">
-                    <p class="about__headline">Explore, Learn, and Rethink Chinese History with AI</p>
-
-                    <p class="skills__text">
-                        Welcome to the Learning Hub — a digital companion to the project
-                        <strong>“Essential AI Skills and Effective Tools for Enhancing Student Learning Experiences in Chinese History and Culture Studies in Higher Education”</strong>,
-                        proudly supported by the Fund for Innovative Technology-in-Education,
-                        Faculty of Humanities, The Hong Kong Polytechnic University.
-                    </p>
-
-                    <p class="skills__text">
-                        Here, you’ll find <strong>hands-on resources, bite-sized tutorial videos, and fresh ideas for integrating AI into your exploration of Chinese history and culture.</strong>
-                        Whether you're curious about what AI can do in the classroom or ready to dive deeper, this space is built for discovery.
-                    </p>
-
-                    <p class="skills__text">
-                        Have a question? An idea? Or just want to say hi? We’d love to hear from you
-                        <a href="mailto:raymond.kf.kwok@polyu.edu.hk" class="about__email">raymond.kf.kwok@polyu.edu.hk</a>
-                    </p>
+            <section class="about section" id="news">
+                <h2 class="section-title">News & Updates (最新資訊)</h2>
+                <div id="news-container">
+                    <div class="news-flex">
+                        <div class="news-text">
+                            <!-- The text from Word will go here -->
+                        </div>
+                        <div class="news-image">
+                            <!-- The image from Word will go here -->
+                        </div>
+                    </div>
                 </div>
-
-
-
             </section>
+
+
 
             <!--===== SKILLS / Resource =====-->
             <section class="skills section" id="resource">
@@ -92,10 +81,23 @@
                     <div>
                         <h2 class="skills__subtitle">(1) Prompt Engineering </h2>
                         <div class="skills__data">
-                            <a href="http://arxiv.org/abs/2504.20042v1" title="Academic Article">📄CompleteMe: Reference-based Human Image Completion</a>
+                            <details class="link-dropdown">
+                                <summary>📄 CompleteMe: Reference-based Human Image Completion</summary>
+                                <div class="link-dropdown__content">
+                                    <a href="http://arxiv.org/abs/2504.20042v1" target="_blank">🔗 View on arXiv</a><br>
+                                    <a href="further_reading/CompleteMe_paper.pdf" target="_blank">📄 Open Local PDF</a><br>
+                                    <a href="https://github.com/PolyUCHC/CompleteMe" target="_blank">💻 View GitHub Repo</a>
+                                </div>
+                            </details>
+
+                            <!--                            <a href="http://arxiv.org/abs/2504.20042v1" title="Academic Article">📄CompleteMe: Reference-based Human Image Completion</a>-->
                         </div>
+
                         <h2 class="skills__subtitle">(2) NER </h2>
                         <div class="skills__data">
+                        <details class="link-dropdown">
+                            <summary>📄NER</summary>
+                            <div class="link-dropdown__content">
                             <span class="skill-title">
                                 <a href="https://colab.research.google.com/drive/1QDXD1-hzG_Pjmu_kg-3a-7tXN-kgCcmG?usp=sharing" title="Colab">📄軍事事件 Map Colab</a><br/>
                                 <a href="https://colab.research.google.com/drive/1Z7e-3Nr3IuBagO5GzbQ6_jR_2ZVyEn-J?usp=sharing" title="Colab">📄旱災 Colab</a><br/>
@@ -103,13 +105,28 @@
                                 <a href="https://colab.research.google.com/drive/1NocJr0QpShM05GxBriK5AQAX8efNflHL?usp=sharing" title="Colab">📄水災 Colab </a><br/>
                                 <a href="https://colab.research.google.com/drive/1SiqK1_KiGOh6eo3Kkie-3JMFK4lIhqfm?usp=sharing" title="Colab">📄軍事時間 Colab </a><br/>
                             </span>
+                            </div>
+                        </details>
                         </div>
+
+
                         <h2 class="skills__subtitle">(3) SNA </h2>
                         <div class="skills__data">
+                            <details class="link-dropdown">
+                                <summary>📄SNA</summary>
+                                <div class="link-dropdown__content">
                             <span class="skill-title">
                               <a href="https://colab.research.google.com/drive/19u6-13QAhWQPEq3gQArR7UHpIoc-Rfpj?usp=sharing" title="SNA network Colab">📄SNA network Colab </a>
                             </span>
+                                </div>
+                            </details>
                         </div>
+
+<!--                        <div class="skills__data">-->
+<!--                            <span class="skill-title">-->
+<!--                              <a href="https://colab.research.google.com/drive/19u6-13QAhWQPEq3gQArR7UHpIoc-Rfpj?usp=sharing" title="SNA network Colab">📄SNA network Colab </a>-->
+<!--                            </span>-->
+<!--                        </div>-->
 
 <!--                        <div class="skills__data">-->
 <!--                            <a href="article.html" class="button" style="margin-top: 1rem;">To More Resource</a>-->
@@ -159,12 +176,45 @@
             </section>
 
 
-            <!--===== WORK =====-->
-            <section class="work section" id="work">
-                <h2 class="section-title">Further Reading & References </h2>
+            <section class="further section" id="further_reading">
+                <h2 class="section-title">Further Reading & References</h2>
+
+                <div class="skills__container bd-grid">
+                    <!-- LEFT COLUMN -->
+                    <div>
+                        <h2 class="skills__subtitle">(1) Research Papers</h2>
+                        <div class="skills__data">
+                            <a href="further_reading/LLM-Gomoku:_A_Large_Language_Model-Based_System_for_Strategic_Gomoku_with_Self-Play_and_Reinforcemen.pdf" target="_blank">📄 LLM-Gomoku</a>
+                        </div>
+                        <div class="skills__data">
+                            <a href="further_reading/Why_Stop_at_One_Error_Benchmarking_LLMs_as_Data_Science_Code_Debuggers_for_Multi-Hop_and_Multi-Bug_.pdf" target="_blank">📄 Benchmarking LLMs as Data Science Code Debuggers</a>
+                        </div>
+                    </div>
+
+                    <!-- RIGHT COLUMN -->
+                    <div>
+                        <h2 class="skills__subtitle">(2) GitHub Repos</h2>
+                        <div class="skills__data">
+                            <a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">🔗 ML-For-Beginners</a>
+                        </div>
+                        <div class="skills__data">
+                            <a href="https://github.com/fighting41love/funNLP" target="_blank">🔗 funNLP</a>
+                        </div>
+                    </div>
+                </div>
             </section>
+
         </main>
 
+        <!--===== WORK =====-->
+        <section class="work section" id="work">
+            <h2 class="section-title">Student Work</h2>
+
+            <div class="student-work__button-container">
+                <a href="work.html" class="button">Enter</a>
+            </div>
+
+        </section>
 
 
 
@@ -182,11 +232,40 @@
 
         <!--===== SCROLL REVEAL =====-->
         <script src="https://unpkg.com/scrollreveal"></script>
-
+        <!-- Mammoth.js for Word reading -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.4.2/mammoth.browser.min.js"></script>
         <!--===== MAIN JS =====-->
         <script src="assets/js/main.js"></script>
     </body>
 </html>
+
+
+
+<!--&lt;!&ndash;===== ABOUT =====&ndash;&gt;-->
+<!--<section class="about section " id="news">-->
+<!--    <h2 class="section-title">News & Updates (最新資訊) </h2>-->
+
+<!--    <div class="about__content">-->
+<!--        <p class="about__headline">Explore, Learn, and Rethink Chinese History with AI</p>-->
+
+<!--        <p class="skills__text">-->
+<!--            Welcome to the Learning Hub — a digital companion to the project-->
+<!--            <strong>“Essential AI Skills and Effective Tools for Enhancing Student Learning Experiences in Chinese History and Culture Studies in Higher Education”</strong>,-->
+<!--            proudly supported by the Fund for Innovative Technology-in-Education,-->
+<!--            Faculty of Humanities, The Hong Kong Polytechnic University.-->
+<!--        </p>-->
+
+<!--        <p class="skills__text">-->
+<!--            Here, you’ll find <strong>hands-on resources, bite-sized tutorial videos, and fresh ideas for integrating AI into your exploration of Chinese history and culture.</strong>-->
+<!--            Whether you're curious about what AI can do in the classroom or ready to dive deeper, this space is built for discovery.-->
+<!--        </p>-->
+
+<!--        <p class="skills__text">-->
+<!--            Have a question? An idea? Or just want to say hi? We’d love to hear from you-->
+<!--            <a href="mailto:raymond.kf.kwok@polyu.edu.hk" class="about__email">raymond.kf.kwok@polyu.edu.hk</a>-->
+<!--        </p>-->
+<!--    </div>-->
+<!--</section>-->
 
 <!--&lt;!&ndash;===== ABOUT =====&ndash;&gt;-->
 <!--<section class="about section " id="about">-->

@@ -297,6 +297,36 @@ img {
 /*  border-radius: 12px;*/
 /*  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);*/
 /*}*/
+.news-flex {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
+
+.news-text {
+  flex: 1 1 45%;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.news-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+}
+
+.news-image {
+  flex: 1 1 45%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 /* ===== SKILLS =====*/
 .skills__container {
@@ -585,4 +615,43 @@ img {
     width: 450px;
   }
 }
+
+.link-dropdown {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 4px 25px rgba(14, 36, 49, 0.15);
+  font-weight: 600;
+}
+
+.link-dropdown summary {
+  cursor: pointer;
+  font-size: 1rem;
+  color: var(--second-color);
+  outline: none;
+}
+
+.link-dropdown__content {
+  margin-top: 1rem;
+  padding-left: 1rem;
+}
+
+.link-dropdown__content a {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--first-color);
+  text-decoration: none;
+}
+.link-dropdown__content a:hover {
+  text-decoration: underline;
+}
+
+.skills__data details.link-dropdown {
+  width: 100%;
+}
+
 /*color of icon* = b6976b/
+
+ */

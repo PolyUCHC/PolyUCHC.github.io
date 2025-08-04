@@ -6,5 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="scrollreveal" level="application" />
     <orderEntry type="library" name="boxicons" level="application" />
+    <orderEntry type="library" name="xlsx" level="application" />
+    <orderEntry type="library" name="mammoth" level="application" />
   </component>
 </module>
